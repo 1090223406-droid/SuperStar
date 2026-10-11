@@ -23,6 +23,7 @@ jobs:
         run: | # 安装依赖包
           pip install -r ./requirements.txt 
           
-      
       - name: Run main.py
-        run: python main.py -u 19505724000 -p 学习通密码ztr20080603 -l 课程id 266891287
+        run: python main.py -u 19505724000 -p 学习通密码ztr20080603 -l 课程id266891287
+      
+     
